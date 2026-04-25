@@ -14,4 +14,4 @@ Welcome to the AIP Tool documentation and resources.
 
 ## About
 
-This project contains the Advanced Integration Platform tool implementation across multiple stages of development.
+This project contains the Advanced Integration Platform tool implementation across multiple stages of development by Dr Jayaprakash Ponraj.
