@@ -1,0 +1,6 @@
+title: AIP Tool
+description: Advanced Integration Platform Tool
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-github-metadata
+  - jekyll-seo-tag
