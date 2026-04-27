@@ -6,6 +6,8 @@ FILE LIST
 ---------
 RAW NETWORK FILES (upload to File Input > PSS/E RAW):
   IEEE30_AO1.raw   — Full IEEE 30-Bus base case (v33 format)
+  IEEE30_S1.raw   — S1 with 30-Bus base case with Bus28+29 (v33 format)
+  IEEE30_S2.raw   — S2 with 30-Bus base case with Bus27+29 + Gen Bus32 200MW (v33 format)
   IEEE30_S3.raw    — S3 with Bus 31/32/33 added
 
 LOAD FLOW CSV (upload to File Input > Load Flow):
