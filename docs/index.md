@@ -13,7 +13,7 @@ Welcome to the AIP Tool documentation and resources.
 - [AIP Tool Stage 6](AIP_Tool_Stage6.html)
 - [AIP Tool Stage 7](AIP_Tool_Stage7.html)
 - [AIP Tool Stage 8](AIP_Tool_Stage8.html)
-
+- [AIP Tool V2.2.0](AIP_Tool_C2.2.0.html)
 ## About
 
 This project contains the Advanced Integration Platform tool implementation across multiple stages of development by Dr Jayaprakash Ponraj.
